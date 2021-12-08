@@ -10,13 +10,13 @@
 
 ## 実施時間
 
-| 回数 |  時間   |
-|:----:|:-------:|
-|  1   | 12:00～ |
-|  2   | 12:05～ |
-|  3   | 12:10～ |
-|  4   | 12:15～ |
-|  5   | 12:20～ |
+|   回数   |  時間   |
+|:--------:|:-------:|
+|  1回目   | 12:00～ |
+|  2回目   | 12:05～ |
+|  3回目   | 12:10～ |
+|  4回目   | 12:15～ |
+|  5回目   | 12:20～ |
 
 ## お願い
 
@@ -28,11 +28,11 @@
 ## 参加フォーム
 
 - [事前アンケート](https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link)
-- [12:00~](https://ichinolabvr.github.io/defaultWorld/WebGL/WebGL/)
-- [12:05~](https://ichinolabvr.github.io/visualFactorsWorld1/WebGL/WebGL/)
-- [12:10~](https://ichinolabvr.github.io/visualFactorsWorld2/WebGL/WebGL/)
-- [12:15~](https://ichinolabvr.github.io/hearingFactorsWorld1/WebGL/WebGL/)
-- [12:20~](https://ichinolabvr.github.io/hearingFactorsWorld2/WebGL/WebGL/)
+- [12:00~](https://ichinolabvr.github.io/RecruitmentSite/)
+- [12:05~](https://ichinolabvr.github.io/RecruitmentSite/)
+- [12:10~](https://ichinolabvr.github.io/RecruitmentSite/)
+- [12:15~](https://ichinolabvr.github.io/RecruitmentSite/)
+- [12:20~](https://ichinolabvr.github.io/RecruitmentSite/)
 
 ## 最後に
 
