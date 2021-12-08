@@ -37,3 +37,5 @@
 ## 最後に
 
 参加人数は1日程30人を目標にしています もしご参加が可能でしたらご協力よろしくお願いします!
+
+[Tokyo City University](https://www.tcu.ac.jp/) [Ichino lab](http://www.comm.tcu.ac.jp/~ichino/)
