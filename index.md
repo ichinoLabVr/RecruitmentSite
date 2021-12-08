@@ -1,5 +1,7 @@
 = 被験者募集
 
+![ライブ映像](https://camo.githubusercontent.com/345d658881b0182f3ec4ea0f29b06756cad70a2f1e6dd539fc20a31ba6a10d62/68747470733a2f2f692e696d6775722e636f6d2f7548426f4e5a632e706e67)
+
 ## 内容
 
 12月18日、12月19日に行う、バーチャルイベントに関する研究の被験者を募集しています！
@@ -25,19 +27,12 @@
 
 ## 参加フォーム
 
-- [事前アンケート][1]
-- [12:00~][2]
-- [12:05~][3]
-- [12:10~][4]
-- [12:15~][5]
-- [12:20~][6]
-
-[1] https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link     "事前アンケート"
-[2] https://ichinolabvr.github.io/defaultWorld/WebGL/WebGL/ "12:00~"
-[3] https://ichinolabvr.github.io/visualFactorsWorld1/WebGL/WebGL/ "12:05~"
-[4] https://ichinolabvr.github.io/visualFactorsWorld2/WebGL/WebGL/ "12:10~"
-[5] https://ichinolabvr.github.io/hearingFactorsWorld1/WebGL/WebGL/ "12:15~"
-[6] https://ichinolabvr.github.io/hearingFactorsWorld2/WebGL/WebGL/ "12:20~"
+- [事前アンケート](https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link)
+- [12:00~](https://ichinolabvr.github.io/defaultWorld/WebGL/WebGL/)
+- [12:05~](https://ichinolabvr.github.io/visualFactorsWorld1/WebGL/WebGL/)
+- [12:10~](https://ichinolabvr.github.io/visualFactorsWorld2/WebGL/WebGL/)
+- [12:15~](https://ichinolabvr.github.io/hearingFactorsWorld1/WebGL/WebGL/)
+- [12:20~](https://ichinolabvr.github.io/hearingFactorsWorld2/WebGL/WebGL/)
 
 ## 最後に
 
