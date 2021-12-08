@@ -28,11 +28,11 @@
 ## 参加フォーム
 
 - [事前アンケート](https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link)
-- [12:00~](https://ichinolabvr.github.io/RecruitmentSite/)
-- [12:05~](https://ichinolabvr.github.io/RecruitmentSite/)
-- [12:10~](https://ichinolabvr.github.io/RecruitmentSite/)
-- [12:15~](https://ichinolabvr.github.io/RecruitmentSite/)
-- [12:20~](https://ichinolabvr.github.io/RecruitmentSite/)
+- [1回目URL (12:00~)](https://ichinolabvr.github.io/RecruitmentSite/)
+- [2回目URL (12:05~)](https://ichinolabvr.github.io/RecruitmentSite/)
+- [3回目URL (12:10~)](https://ichinolabvr.github.io/RecruitmentSite/)
+- [4回目URL (12:15~)](https://ichinolabvr.github.io/RecruitmentSite/)
+- [5回目URL (12:20~)](https://ichinolabvr.github.io/RecruitmentSite/)
 
 ## 最後に
 
