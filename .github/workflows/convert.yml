@@ -27,18 +27,18 @@ jobs:
     - name: Markdown To Asciidoc
       uses: docker://pandoc/core:2.11
       with:
-        args: -f markdown+east_asian_line_breaks sample.md --to asciidoctor -o sample.adoc --wrap=preserve --verbose  --shift-heading-level-by=-1
+        args: -f markdown+east_asian_line_breaks index.md --to asciidoctor -o index.adoc --wrap=preserve --verbose  --shift-heading-level-by=-1
     # Output command using asciidoctor-action
     - name: Build AsciiDoc step
       id: documents
       uses: Analog-inc/asciidoctor-action@master
       with:
-        shellcommand: "asciidoctor sample.adoc -r asciidoctor-diagram -a allow-uri-read -a data-uri -a toc=left"
+        shellcommand: "asciidoctor index.adoc -r asciidoctor-diagram -a allow-uri-read -a data-uri -a toc=left"
     # Use the output from the documents step
     - name: move deploy files
       run: |
         mkdir build/
-        mv sample* build/
+        mv index* build/
         ls build
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
