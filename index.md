@@ -39,4 +39,4 @@
 
 参加人数は1日程30人を目標にしております。 もし、ご参加が可能でしたらご協力よろしくお願い致します!
 
-[:school: Tokyo City University](https://www.tcu.ac.jp/) [:busts_in_silhouette: Ichino lab](http://www.comm.tcu.ac.jp/~ichino/) [:envelope: Email](mailto:g1827030@tcu.ac.jp?subject=実験内容についての問い合わせ&amp;body=被験者募集のサイトからの連絡です)
+[Tokyo City University](https://www.tcu.ac.jp/) [Ichino lab](http://www.comm.tcu.ac.jp/~ichino/) [Email](mailto:g1827030@tcu.ac.jp?subject=実験内容についての問い合わせ&amp;body=被験者募集のサイトからの連絡です)
