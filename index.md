@@ -20,6 +20,7 @@
 
 ## 参加フォーム&当日実験URL
 
+- 当日の実験URLは下記時刻になりましたら順番に入ってください
 - [事前アンケート](https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link)
 - [1回目URL 12:00~](https://ichinolabvr.github.io/RecruitmentSite/)
 - [2回目URL 12:05~](https://ichinolabvr.github.io/RecruitmentSite/)
