@@ -22,6 +22,7 @@ image::https://camo.githubusercontent.com/345d658881b0182f3ec4ea0f29b06756cad70a
 
 == 参加フォーム&当日実験URL
 
+* 当日の実験URLは下記時刻になりましたら順番に入ってください
 * https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link[事前アンケート]
 * https://ichinolabvr.github.io/RecruitmentSite/[1回目URL 12:00~]
 * https://ichinolabvr.github.io/RecruitmentSite/[2回目URL 12:05~]
