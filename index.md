@@ -18,15 +18,7 @@
 |  4回目   | 12:15～ |
 |  5回目   | 12:20～ |
 
-## お願い
-
-- PC(ノート、デスクトップどちらでも)、イヤホン又はヘッドホンをお持ちの方でしたら、自宅等どこから実験に参加しても構いません
-- 最初から最後までの参加して頂けると幸いです。
-- 途中参加・退出はご遠慮ください。(1回目,2回目,3回目のみ参加など)
-- 時間は12:00〜12:30ですが、3分程のLIVE映像を5回鑑賞していただきますので、早く終わるかもしれません
-- 事前アンケートに答えて頂けると幸いです。
-
-## 参加フォーム
+## 参加フォーム&当日実験URL
 
 - [事前アンケート](https://docs.google.com/forms/d/e/1FAIpQLSeWxhsFPgu0BtEOIoHNWnf8zRjhs5mWnRPnOsLNNJK75Ptysg/viewform?usp=sf_link)
 - [1回目URL 12:00~](https://ichinolabvr.github.io/RecruitmentSite/)
@@ -34,6 +26,14 @@
 - [3回目URL 12:10~](https://ichinolabvr.github.io/RecruitmentSite/)
 - [4回目URL 12:15~](https://ichinolabvr.github.io/RecruitmentSite/)
 - [5回目URL 12:20~](https://ichinolabvr.github.io/RecruitmentSite/)
+
+## お願い
+
+- PC(ノート、デスクトップどちらでも)、イヤホン又はヘッドホンをお持ちの方でしたら、自宅等どこから実験に参加しても構いません
+- 最初から最後までの参加して頂けると幸いです。
+- 途中参加・退出はご遠慮ください。(1回目,2回目,3回目のみ参加など)
+- 時間は12:00〜12:30ですが、3分程のLIVE映像を5回鑑賞していただきますので、早く終わるかもしれません
+- 事前アンケートに答えて頂けると幸いです。
 
 ## 最後に
 
